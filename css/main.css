@@ -1,0 +1,43 @@
+body{
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+.acc{
+  text-align: center;
+  font-weight: 2.0em;
+  font-size: 2.0em;
+}
+.activv{
+  width:200px;
+  margin-left:150px;
+}
+.image{
+  width:200px;
+  margin-left: 500px;
+}
+.manage{
+  width: 50%;
+  float: left;
+}
+.nav{
+  text-align: center;
+}
+.nav ul{
+  list-style: none;
+  text-decoration: none;
+}
+.nav ul li{
+  display:inline-block;
+  padding:20px;
+}
+.nav ul li:hover{
+  background-color: #DFE654;
+}
+.headers{
+    width:600px;
+    margin-left: 330px;
+}
+.headerss{
+  width:50%;
+}
