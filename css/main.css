@@ -1,7 +1,7 @@
 body{
   padding: 0;
   margin: 0;
-  font-family: sans-serif;
+  font-family: verdana;
   background-color: grey;
 }
 .acc{
@@ -13,31 +13,20 @@ body{
   width:200px;
   margin-left:150px;
 }
-.image{
-  width:200px;
-  margin-left: 500px;
+.logo{
+  width:100px;
+  margin-top: -15px
+
 }
 .manage{
   width: 50%;
   float: left;
 }
-.nav{
-  text-align: center;
-}
-.nav ul{
-  list-style: none;
-  text-decoration: none;
-}
-.nav ul li{
-  display:inline-block;
-  padding:20px;
-}
-.nav ul li:hover{
-  background-color: #DFE654;
-}
+
 .headers{
-    width:600px;
-    margin-left: 330px;
+    width:100%;
+    margin-top:-80px;
+    height: 300px;
 }
 .headerss{
   width:50%;
